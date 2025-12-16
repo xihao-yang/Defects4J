@@ -24,9 +24,26 @@ test results and related metadata, to facilitate:
 
 ## 2. Contents
 
-.
-├── results/ # Experimental results (e.g., test outcomes, logs)
-├── scripts/ # Scripts for running Defects4J experiments
-├── configs/ # Configuration files (if applicable)
-├── environment/ # Environment setup and dependency information
-└── README.md
+
+
+## 3. Experimental Setup
+
+- **Benchmark**: Defects4J  
+- **Defects4J Version**: (e.g., 2.0.1)
+- **Operating System**: (e.g., Ubuntu 20.04 / WSL2)
+- **JDK Version**: (e.g., OpenJDK 8)
+- **Build Tools**: Maven / Gradle (depending on project)
+
+Detailed environment information is provided to ensure **reproducibility**.
+
+---
+
+## 4. Results Description
+
+The `results/` directory contains:
+
+- Test execution outcomes (pass/fail status)
+- Logs generated during Defects4J runs
+- Bug-wise or project-wise result summaries
+
+Each result file is named following the format:

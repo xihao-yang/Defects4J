@@ -54,6 +54,4 @@ The `results/` directory contains:
 - Logs generated during Defects4J runs
 - Bug-wise or project-wise result summaries
 
-Each result file is named following the format:
-
-* <Project><BugID><ExperimentType>. *
+Each result file is named following the format: `<Project>_<BugID>_<ExperimentType>.*`

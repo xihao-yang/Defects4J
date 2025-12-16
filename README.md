@@ -56,4 +56,4 @@ The `results/` directory contains:
 
 Each result file is named following the format:
 
-* <Project><BugID><ExperimentType>.*
+* <Project><BugID><ExperimentType>. *

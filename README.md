@@ -55,3 +55,12 @@ The `results/` directory contains:
 - Bug-wise or project-wise result summaries
 
 Each result file is named following the format: `<Project>_<BugID>_<ExperimentType>.*`
+
+## 5. Reproducibility
+
+All experiments can be reproduced by:
+
+1. Installing Defects4J following the official instructions
+2. Setting up the environment as described in `environment/`
+3. Executing the scripts in `scripts/`
+

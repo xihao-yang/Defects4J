@@ -55,3 +55,5 @@ The `results/` directory contains:
 - Bug-wise or project-wise result summaries
 
 Each result file is named following the format:
+
+* <Project><BugID><ExperimentType>.*

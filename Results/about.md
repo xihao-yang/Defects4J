@@ -21,4 +21,5 @@ Result files will follow the naming pattern: `<Project><BugID><ExperimentType>.*
 For example:
 
 Lang_1_TestResults.log
+
 Chart_12_PatchValidation.txt

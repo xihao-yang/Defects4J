@@ -7,7 +7,7 @@ The goal of this repository is to support **empirical studies in software testin
 automatic program repair (APR)** by providing collected results, execution scripts, and
 configuration details.
 
----
+
 
 ## 1. Overview
 
@@ -20,10 +20,18 @@ test results and related metadata, to facilitate:
 - Research on automatic program repair and test oracle behavior
 - Reproducibility of experimental results
 
----
+
 
 ## 2. Contents
 
+```
+.
+├── results/        # Experimental results (e.g., test outcomes, logs)
+├── scripts/        # Scripts for running Defects4J experiments
+├── configs/        # Configuration files (if applicable)
+├── environment/    # Environment setup and dependency information
+└── README.md
+```
 
 
 ## 3. Experimental Setup
@@ -36,7 +44,7 @@ test results and related metadata, to facilitate:
 
 Detailed environment information is provided to ensure **reproducibility**.
 
----
+
 
 ## 4. Results Description
 

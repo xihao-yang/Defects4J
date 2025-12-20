@@ -37,7 +37,7 @@ test results and related metadata, to facilitate:
 ## 3. Experimental Setup
 
 - **Benchmark**: Defects4J  
-- **Defects4J Version**: (e.g., 2.0.1)
+- **Defects4J Version**: v3.0.1 (commit 8022adcd, 6 commits ahead)
 - **Operating System**: (e.g., Ubuntu 20.04 / WSL2)
 - **JDK Version**: (e.g., OpenJDK 8)
 - **Build Tools**: Maven / Gradle (depending on project)
